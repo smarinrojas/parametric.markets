@@ -2,7 +2,7 @@
 
 ## *abstract*
 
-Parametric is a marketplace for fully collateralized parametric insurance, where risk is priced by market forces, funded by liquidity providers, and settled automatically on-chain. Instead of relying on centralized insurers that privately maintain actuarial models, liquidity reserves, and claims control, Parametric replaces them with open market dynamics governed by smart contracts.
+Parametric is a marketplace for fully collateralized parametric insurance alternative, where risk is priced by market forces, funded by liquidity providers, and settled automatically on-chain. Instead of relying on centralized insurers that privately maintain actuarial models, liquidity reserves, and claims control, Parametric replaces them with open market dynamics governed by smart contracts.
 
 Each event or market represents a shared risk pool where two forces interact directly: users seeking protection and liquidity providers (LPs) competing to underwrite risk in exchange for yield. This competition is not purely financial—LPs bring their own probabilistic beliefs about the underlying event, contributing to a collective, on-chain intelligence that continuously updates prices through supply and demand.
 
